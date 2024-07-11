@@ -1,0 +1,10 @@
+## VisualStudio
+.vs/
+
+## External libs
+extern/
+
+## Deployment
+deployment/
+
+
